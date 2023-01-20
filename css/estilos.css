@@ -1,0 +1,61 @@
+h1, h2, p {
+    text-align: center;
+}
+
+h1, h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    background-color: rgba(193, 78, 78, 0.744);
+}
+
+.established{
+    font-style: italic;
+}
+
+body {
+    background-image: url(https://cdn.discordapp.com/attachments/1008571246654533692/1064153072370208848/Victor_bigvam_generate_an_attractive_and_sophisticated_backgrou_25733be5-e127-4fec-9f24-83d1b9784f89.png);
+    font-family: fantasy;
+    padding: 20px;
+}
+
+#logo {
+    float: left;
+    margin-right: 50px;
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.menu {
+    width: 80%;
+    background-color: rgba(229, 192, 192, 0.744);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
