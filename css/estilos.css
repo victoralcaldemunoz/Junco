@@ -8,6 +8,9 @@ h1, h2 {
 
 h1 {
     font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-right: 120px;
 }
 
 h2 {
@@ -59,3 +62,23 @@ body {
     margin-bottom: 5px;
     font-size: 18px;
 }
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+/*FOOTER*/
+
+footer {
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+a:visited { color: rgb(0, 0, 0); }
+a:hover {color: rgba(193, 78, 78, 0.744);}
+a:active {color: rgba(193, 78, 78, 0.744);}
+
+.address {margin-bottom: 5px;}
